@@ -246,3 +246,18 @@ As a **UI/UX Designer who codes**, every component specification was engineered 
 ---
 
 **Obaidhur Rahaman** | [rahaman1721.framer.website](https://rahaman1721.framer.website) | [LinkedIn](https://www.linkedin.com/in/obaidhur-rahaman-1721z) | [GitHub](https://github.com/rahaman1721)
+---
+
+## 👨‍💻 Author
+
+**Obaidhur Rahaman**  
+Full Stack Developer & Lead UI/UX Designer  
+
+- 🌐 **Portfolio**: [https://rahaman1721.framer.website](https://rahaman1721.framer.website)  
+- 🐙 **GitHub**: [@rahaman1721](https://github.com/rahaman1721)  
+- 💼 **LinkedIn**: [linkedin.com/in/obaidhur-rahaman-1721z](https://www.linkedin.com/in/obaidhur-rahaman-1721z)  
+- 📧 **Email**: [rahaman171920@gmail.com](mailto:rahaman171920@gmail.com)  
+
+<div align="center">
+  <sub>Designed & Developed with precision by Obaidhur Rahaman © 2026</sub>
+</div>
